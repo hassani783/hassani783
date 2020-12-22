@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Pharmacie du centre
- un site de e-commerce 
+
 
 ## Technologies:
 
